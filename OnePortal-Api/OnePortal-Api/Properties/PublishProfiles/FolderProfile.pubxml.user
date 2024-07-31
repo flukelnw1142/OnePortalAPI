@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Fluke\OnePortal\Deploy</_PublishTargetUrl>
+    <History>True|2024-07-31T09:57:23.6129659Z;True|2024-07-30T16:51:37.9337460+07:00;True|2024-07-30T16:48:40.0803549+07:00;True|2024-07-30T16:46:49.7663008+07:00;True|2024-07-30T16:31:34.2751065+07:00;True|2024-07-30T16:29:15.3155272+07:00;True|2024-07-30T16:08:18.1970461+07:00;True|2024-07-30T15:14:21.6337629+07:00;False|2024-07-30T15:14:01.3837256+07:00;True|2024-07-30T15:10:06.4841920+07:00;True|2024-07-30T14:56:25.7226745+07:00;True|2024-07-30T14:50:24.3991628+07:00;True|2024-07-30T14:48:22.7572860+07:00;True|2024-07-30T14:46:04.9258745+07:00;True|2024-07-30T14:41:31.7266735+07:00;True|2024-07-30T14:38:07.2329610+07:00;True|2024-07-30T14:36:19.4361766+07:00;True|2024-07-30T14:32:13.7990093+07:00;True|2024-07-30T14:30:46.3737354+07:00;True|2024-07-30T14:23:24.2749966+07:00;True|2024-07-26T12:03:21.4577287+07:00;True|2024-07-19T17:50:54.5699823+07:00;True|2024-07-18T15:21:52.7693075+07:00;True|2024-07-18T14:51:26.2386977+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Services/BankMasterDataService.cs">
+      <publishTime>07/16/2024 16:12:50</publishTime>
+    </File>
+    <File Include="Services/CustomerService.cs">
+      <publishTime>07/19/2024 15:57:28</publishTime>
+    </File>
+    <File Include="Services/CustomerTypeMasterDataService.cs">
+      <publishTime>07/11/2024 17:23:06</publishTime>
+    </File>
+    <File Include="Services/EventLogService.cs">
+      <publishTime>07/18/2024 13:16:56</publishTime>
+    </File>
+    <File Include="Services/IBankMasterDataService.cs">
+      <publishTime>07/16/2024 16:11:51</publishTime>
+    </File>
+    <File Include="Services/ICustomerService.cs">
+      <publishTime>07/19/2024 15:22:40</publishTime>
+    </File>
+    <File Include="Services/ICustomerTypeMasterDataService.cs">
+      <publishTime>07/11/2024 17:22:31</publishTime>
+    </File>
+    <File Include="Services/IEventLogService.cs">
+      <publishTime>07/18/2024 13:16:29</publishTime>
+    </File>
+    <File Include="Services/IPostCodeService.cs">
+      <publishTime>07/11/2024 16:53:56</publishTime>
+    </File>
+    <File Include="Services/IRoleServices.cs">
+      <publishTime>07/09/2024 21:42:32</publishTime>
+    </File>
+    <File Include="Services/ISupplierBankService.cs">
+      <publishTime>07/17/2024 15:42:12</publishTime>
+    </File>
+    <File Include="Services/ISupplierService.cs">
+      <publishTime>07/19/2024 17:14:22</publishTime>
+    </File>
+    <File Include="Services/ISupplierTypeMasterDataService.cs">
+      <publishTime>07/11/2024 17:25:11</publishTime>
+    </File>
+    <File Include="Services/IUserService.cs">
+      <publishTime>07/09/2024 13:27:52</publishTime>
+    </File>
+    <File Include="Services/PostCodeService.cs">
+      <publishTime>07/11/2024 16:53:13</publishTime>
+    </File>
+    <File Include="Services/RoleService.cs">
+      <publishTime>07/09/2024 21:42:17</publishTime>
+    </File>
+    <File Include="Services/SupplierBankService.cs">
+      <publishTime>07/19/2024 13:46:24</publishTime>
+    </File>
+    <File Include="Services/SupplierService.cs">
+      <publishTime>07/19/2024 17:23:06</publishTime>
+    </File>
+    <File Include="Services/SupplierTypeMasterDataService.cs">
+      <publishTime>07/11/2024 17:25:36</publishTime>
+    </File>
+    <File Include="Services/UserService.cs">
+      <publishTime>07/09/2024 13:34:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
