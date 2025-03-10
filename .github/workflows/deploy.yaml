@@ -17,27 +17,40 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Stop IIS (Production)
-        run: |
-          iisreset /stop
+        run: iisreset /stop
         shell: cmd
 
       - name: Setup .NET SDK
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '7.0.x
+          dotnet-version: '8.0.x'
+
+      - name: Clear NuGet Cache
+        run: dotnet nuget locals all --clear
+
+      - name: Set NuGet Package Environment Variable
+        run: echo "NUGET_PACKAGES=C:\nuget-packages" >> $GITHUB_ENV
 
       - name: Restore dependencies
-        run: dotnet restore OnePortal-Api/OnePortal-Api.sln
+        run: dotnet restore OnePortal-Api/OnePortal-Api.sln --force --packages C:\nuget-packages
+
+      - name: Remove old build files
+        run: |
+          rm -r -fo OnePortal-Api/bin, OnePortal-Api/obj
+        shell: powershell
+
+      - name: Check for duplicate files
+        run: Get-ChildItem -Path OnePortal-Api/Services, OnePortal-Api/Controllers -Filter *.cs -Recurse | Group-Object Name | Where-Object {$_.Count -gt 1} | Format-Table Count, Name
+        shell: powershell
 
       - name: Build
         run: dotnet build OnePortal-Api/OnePortal-Api.sln --configuration Release --no-restore
 
       - name: Publish to Production
-        run: dotnet publish OnePortal-Api/OnePortal-Api.csproj --configuration Release --output C:\Project\FN_Portal\Protal-API_Test\ --no-build
+        run: dotnet publish OnePortal-Api/OnePortal-Api.csproj --configuration Release --output C:\Project\FN_Portal\Protal-API_Test\
 
       - name: Restart IIS (Production)
-        run: |
-          iisreset /restart
+        run: iisreset /restart
         shell: cmd
 
   deploy-test:
@@ -52,11 +65,6 @@ jobs:
         run: |
           iisreset /stop
         shell: cmd
-
-      - name: Setup .NET SDK
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: '7.0.x
 
       - name: Restore dependencies
         run: dotnet restore OnePortal-Api/OnePortal-Api.sln
