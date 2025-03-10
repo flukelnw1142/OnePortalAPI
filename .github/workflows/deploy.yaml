@@ -21,8 +21,8 @@ jobs:
           iisreset /stop
         shell: cmd
 
-      - name: Restore dependencies
-        run: dotnet restore OnePortal-Api/OnePortal-Api.sln
+      - name: Restore dependencies (Force)
+        run: dotnet restore OnePortal-Api/OnePortal-Api.sln --force --packages C:\nuget-packages
 
       - name: Build
         run: dotnet build OnePortal-Api/OnePortal-Api.sln --configuration Release --no-restore
