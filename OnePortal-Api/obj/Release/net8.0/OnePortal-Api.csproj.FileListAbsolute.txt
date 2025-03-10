@@ -1,0 +1,346 @@
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\appsettings.Development.json
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\appsettings.json
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.staticwebassets.runtime.json
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.exe
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.deps.json
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.runtimeconfig.json
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.pdb
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Azure.Core.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Azure.Identity.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\BCrypt.Net-Next.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Humanizer.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\MailKit.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.OpenApi.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\MimeKit.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Mono.TextTemplating.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Oracle.EntityFrameworkCore.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Oracle.ManagedDataAccess.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.CodeDom.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Composition.AttributedModel.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Composition.Convention.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Composition.Hosting.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Composition.Runtime.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Composition.TypedParts.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.DirectoryServices.Protocols.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Formats.Asn1.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Memory.Data.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Runtime.Caching.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.csproj.AssemblyReference.cache
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.AssemblyInfoInputs.cache
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.AssemblyInfo.cs
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.csproj.CoreCompileInputs.cache
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.sourcelink.json
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets.build.json
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets.development.json
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets\msbuild.OnePortal-Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets\msbuild.build.OnePortal-Api.props
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.OnePortal-Api.props
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.OnePortal-Api.props
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets.pack.json
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\scopedcss\bundle\OnePortal-Api.styles.css
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.csproj.CopyComplete
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\refint\OnePortal-Api.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.pdb
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.genruntimeconfig.cache
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\ref\OnePortal-Api.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\libman.json
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Dapper.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\EPPlus.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\EPPlus.Interfaces.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\EPPlus.System.Drawing.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Drawing.Common.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.ClientModel.dll
+D:\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Text.Json.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\appsettings.Development.json
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\appsettings.json
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\libman.json
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.staticwebassets.runtime.json
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.staticwebassets.endpoints.json
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.exe
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.deps.json
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.runtimeconfig.json
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\OnePortal-Api.pdb
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Azure.Core.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Azure.Identity.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\BCrypt.Net-Next.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Dapper.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\EPPlus.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\EPPlus.Interfaces.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\EPPlus.System.Drawing.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Humanizer.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\MailKit.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\MimeKit.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Mono.TextTemplating.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Oracle.EntityFrameworkCore.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Oracle.ManagedDataAccess.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.ClientModel.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.CodeDom.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Composition.AttributedModel.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Composition.Convention.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Composition.Hosting.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Composition.Runtime.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Composition.TypedParts.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.DirectoryServices.Protocols.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Drawing.Common.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Memory.Data.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.csproj.AssemblyReference.cache
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.AssemblyInfoInputs.cache
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.AssemblyInfo.cs
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.csproj.CoreCompileInputs.cache
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.MvcApplicationPartsAssemblyInfo.cs
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.MvcApplicationPartsAssemblyInfo.cache
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.sourcelink.json
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\scopedcss\bundle\OnePortal-Api.styles.css
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets.build.json
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets.development.json
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets.build.endpoints.json
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets\msbuild.OnePortal-Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets\msbuild.OnePortal-Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets\msbuild.build.OnePortal-Api.props
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.OnePortal-Api.props
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.OnePortal-Api.props
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets.pack.json
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePorta.0D528AC2.Up2Date
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\refint\OnePortal-Api.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.pdb
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\OnePortal-Api.genruntimeconfig.cache
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\obj\Release\net8.0\ref\OnePortal-Api.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\PdfSharp.Charting.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\PdfSharp.Quality.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\PdfSharp.Snippets.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\PdfSharp.System.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\PdfSharp.WPFonts.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\PdfSharp.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\PdfSharpCore.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\ICSharpCode.SharpZipLib.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\SixLabors.Fonts.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\SixLabors.ImageSharp.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\SixLabors.ImageSharp.Drawing.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\de\PdfSharp.Charting.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\de\PdfSharp.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\de\PdfSharpCore.resources.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\Aspose.PDF.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Security.Permissions.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\BackUp Drive D\Fluke\OneProject\one-portal\OnePortal-Api\OnePortal-Api\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll

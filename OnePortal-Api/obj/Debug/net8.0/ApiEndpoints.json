@@ -1,0 +1,2600 @@
+[
+  {
+    "ContainingType": "OnePortal_Api.Controllers.BankMasterDataController",
+    "Method": "GetBankMasterDataInfo",
+    "RelativePath": "api/BankMasterData/BankMasterDataInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.BankMasterDataController",
+    "Method": "Key_Customer",
+    "RelativePath": "api/BankMasterData/KEY_CUSTOMER",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "site",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.BankMasterDataController",
+    "Method": "Key_Supplier",
+    "RelativePath": "api/BankMasterData/KEY_SUPPLIER",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "tax",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.BankMasterDataController",
+    "Method": "UpdateCustomerInSqlServer",
+    "RelativePath": "api/BankMasterData/updateCustomerInSqlServer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.BankMasterDataController",
+    "Method": "UpdateSupplierNumInSqlServer",
+    "RelativePath": "api/BankMasterData/updateSupplierNumInSqlServer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "AddCustomer",
+    "RelativePath": "api/Customer/AddCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerDto",
+        "Type": "OnePortal_Api.Dto.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "CheckDuplicateCustomer",
+    "RelativePath": "api/Customer/CheckDuplicateCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newCustomerDto",
+        "Type": "OnePortal_Api.Dto.CustomerCheckDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "GetCustomerInfo",
+    "RelativePath": "api/Customer/CustomerInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "FindCustomerByID",
+    "RelativePath": "api/Customer/FindCustomerByID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.Customer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "FindCustomerTypeByID",
+    "RelativePath": "api/Customer/FindCustomerTypeByID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.CustomerTypeMasterData",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "FindDataByUserID",
+    "RelativePath": "api/Customer/FindDataByUserID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Model.Customer, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "FindDataHistoryByApprover",
+    "RelativePath": "api/Customer/FindDataHistoryByApprover",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userid",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "company",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Dto.CustomerSupplierDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "FindDataHistoryByApproverFN",
+    "RelativePath": "api/Customer/FindDataHistoryByApproverFN",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userid",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "company",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Dto.CustomerSupplierDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "FindDataHistoryByUserID",
+    "RelativePath": "api/Customer/FindDataHistoryByUserID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userid",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "company",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ownerType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Dto.CustomerSupplierDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "GetCustomerSupplierHistory",
+    "RelativePath": "api/Customer/GetCustomerSupplierHistory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "company",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ownerType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Dto.CustomerSupplierDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "GetCustomerType",
+    "RelativePath": "api/Customer/GetCustomerType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[OnePortal_Api.Model.CustomerTypeMasterData, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "GetDataByTaxId",
+    "RelativePath": "api/Customer/GetDataByTaxId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taxId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.Customer",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "GetDataByUserCompanyACC",
+    "RelativePath": "api/Customer/GetDataByUserCompanyACC",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "company",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "GetDataByUserCompanyFN",
+    "RelativePath": "api/Customer/GetDataByUserCompanyFN",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "company",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "UpdateCustomer",
+    "RelativePath": "api/Customer/UpdateCustomer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "customerDto",
+        "Type": "OnePortal_Api.Dto.CustomerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "UpdateCustomerStatus",
+    "RelativePath": "api/Customer/UpdateCustomerStatus",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.CustomerController",
+    "Method": "Upload",
+    "RelativePath": "api/Customer/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.EmailController",
+    "Method": "SendEmail",
+    "RelativePath": "api/Email/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailRequest",
+        "Type": "OnePortal_Api.Controllers.EmailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.EventLogController",
+    "Method": "FindLogByCustomnerID",
+    "RelativePath": "api/EventLog/FindLogByCustomnerID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Dto.EventLogDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.EventLogController",
+    "Method": "GetLogsBySupplierId",
+    "RelativePath": "api/EventLog/FindLogBySupplierID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supplierId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Dto.EventLogDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.EventLogController",
+    "Method": "InsertLog",
+    "RelativePath": "api/EventLog/InsertLog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventLog",
+        "Type": "OnePortal_Api.Model.EventLog",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.EventLog",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.LogDownloadController",
+    "Method": "LogDownload",
+    "RelativePath": "api/log-download",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OnePortal_Api.Controllers.LogDownloadRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.LoginController",
+    "Method": "CheckUser",
+    "RelativePath": "api/Login/signIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginReq",
+        "Type": "OnePortal_Api.req.LoginReq",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.MasterContentController",
+    "Method": "GetAnnouncementByUsername",
+    "RelativePath": "api/MasterContent/GetAnnouncementByUsername",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.MasterContentController",
+    "Method": "GetContentById",
+    "RelativePath": "api/MasterContent/GetContentById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.MasterContentController",
+    "Method": "InsertLog",
+    "RelativePath": "api/MasterContent/InsertAnnouncement",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.PdfUploadController",
+    "Method": "UploadPdf",
+    "RelativePath": "api/PdfUpload/upload-pdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.PDPAConsentController",
+    "Method": "GetPDPA_Accepted",
+    "RelativePath": "api/PDPAConsent/GetPDPAByUsername",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.PDPAConsentController",
+    "Method": "InsertLog",
+    "RelativePath": "api/PDPAConsent/InsertPDPA",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.PostCodeController",
+    "Method": "GetPostCodeInfo",
+    "RelativePath": "api/PostCode/PostCodeInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[OnePortal_Api.Model.PostCode, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.PrefixController",
+    "Method": "GetAllPrefixes",
+    "RelativePath": "api/Prefix/getAllPrefixes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.RoleController",
+    "Method": "GetRoleInfo",
+    "RelativePath": "api/Role/RoleList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "AddOrUpdateSupplierWithBankAndFiles",
+    "RelativePath": "api/Supplier/AddOrUpdateSupplierWithBankAndFiles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supplierJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "supplierBankJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierFiles",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierBankFiles",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierFilesMetadata",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierBankFilesMetadata",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fileIdsToRemoveJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fileBankIdsToRemoveJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "rejectReason",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "AddOrUpdateSupplierWithFiles",
+    "RelativePath": "api/Supplier/AddOrUpdateSupplierWithFiles/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Prefix",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tax_Id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AddressSup",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "District",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Subdistrict",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Province",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PostalCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tel",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierNum",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Site",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Vat",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PaymentMethod",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Firstname",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Lastname",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmailUser",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Company",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Type",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerAcc",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerFn",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Mobile",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PostId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Files",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "GroupName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LabelTextsJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LabelTexts",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UploadedBy",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Telephone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierFiles",
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Dto.SupplierFileDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierBanks",
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Dto.SupplierBankWithFilesDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "files",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "fileIdsJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fileIdsToRemoveJson",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "AddSupplier",
+    "RelativePath": "api/Supplier/AddSupplier",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supplier",
+        "Type": "OnePortal_Api.Model.Supplier",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.Supplier",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "AddSupplierWithFiles",
+    "RelativePath": "api/Supplier/AddSupplierWithFiles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Prefix",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tax_Id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AddressSup",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "District",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Subdistrict",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Province",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PostalCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tel",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierNum",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Site",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Vat",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PaymentMethod",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Firstname",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Lastname",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmailUser",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Company",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Type",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerAcc",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerFn",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Mobile",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PostId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Files",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "GroupName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LabelTextsJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LabelTexts",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UploadedBy",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Telephone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierFiles",
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Dto.SupplierFileDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierBanks",
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Dto.SupplierBankWithFilesDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierBankController",
+    "Method": "FindSupplierByID",
+    "RelativePath": "api/SupplierBank/FindSupplierBankByID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.SupplierBank",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierBankController",
+    "Method": "FindSupplierBankBySupplierID",
+    "RelativePath": "api/SupplierBank/FindSupplierBankBySupplierID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supplierid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Model.SupplierBank, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierBankController",
+    "Method": "FindSupplierBankBySupplierIDV2",
+    "RelativePath": "api/SupplierBank/FindSupplierBankBySupplierIDV2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supplierid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierBankController",
+    "Method": "GetSupplierBankFileTemplateList",
+    "RelativePath": "api/SupplierBank/GetSupplierBankFileTemplates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[OnePortal_Api.Dto.SupplierBankFileTemplateDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierBankController",
+    "Method": "SaveSupplierBanksWithFiles",
+    "RelativePath": "api/SupplierBank/SaveSupplierBanksWithFiles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supplierBankJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Files",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "fileIdsToRemoveJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "labelTextsJson",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierBankController",
+    "Method": "UpdateSupplierBankWithFiles",
+    "RelativePath": "api/SupplierBank/UpdateSupplierBankWithFiles/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SupbankId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "NameBank",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Branch",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AccountNum",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AccountName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierGroup",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Company",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Files",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "LabelTextsJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LabelTextsV2",
+        "Type": "System.Collections.Generic.Dictionary\u00602[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UploadedBy",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "LabelTexts",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "fileIdsString",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "CheckDuplicateSupplier",
+    "RelativePath": "api/Supplier/CheckDuplicateSupplier",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newSupplierDto",
+        "Type": "OnePortal_Api.Dto.SupplierCheckDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "CompanyInfo",
+    "RelativePath": "api/Supplier/CompanyInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "CompareOracleAndSqlServerIds",
+    "RelativePath": "api/Supplier/CompareOracleAndSqlServerIds",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "ExportApprovedSuppliersToExcelDynamic",
+    "RelativePath": "api/Supplier/ExportApprovedSuppliersToExcelDynamic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestBody",
+        "Type": "System.Text.Json.JsonElement",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "FindDataByUserID",
+    "RelativePath": "api/Supplier/FindDataByUserID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Model.Supplier, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "FindSupplierByID",
+    "RelativePath": "api/Supplier/FindSupplierByID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.Supplier",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "FindSupplierByIDV2",
+    "RelativePath": "api/Supplier/FindSupplierByIDV2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Dto.SupplierWithFilesDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "FindSupplierByTypeName",
+    "RelativePath": "api/Supplier/FindSupplierByTypeName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supplierType",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.Supplier",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "FindSupplierTypeByID",
+    "RelativePath": "api/Supplier/FindSupplierTypeByID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.SupplierTypeMasterData",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "GetAllGroups",
+    "RelativePath": "api/Supplier/GetAllGroups",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "GetDataByTaxId",
+    "RelativePath": "api/Supplier/GetDataByTaxId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taxId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.Supplier",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "GetDataByUserCompanyACC",
+    "RelativePath": "api/Supplier/GetDataByUserCompanyACC",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "company",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "GetDataByUserCompanyFN",
+    "RelativePath": "api/Supplier/GetDataByUserCompanyFN",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "company",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "GetGroupNames",
+    "RelativePath": "api/Supplier/GetGroupNames",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "company",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "GetSupplierFileTemplates",
+    "RelativePath": "api/Supplier/GetSupplierFileTemplates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[OnePortal_Api.Dto.SupplierFileTemplateDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "GetSupplierType",
+    "RelativePath": "api/Supplier/GetSupplierType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[OnePortal_Api.Model.SupplierTypeMasterData, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "GetPaymentMethod",
+    "RelativePath": "api/Supplier/PaymentMethodInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[OnePortal_Api.Model.PaymentMethod, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "SaveSupplierBankWithFiles",
+    "RelativePath": "api/Supplier/SaveSupplierBankWithFiles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Prefix",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tax_Id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AddressSup",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "District",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Subdistrict",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Province",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PostalCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tel",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierNum",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Site",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Vat",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PaymentMethod",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Firstname",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Lastname",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "EmailUser",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Company",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Type",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerAcc",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerFn",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Mobile",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PostId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Files",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "GroupName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LabelTextsJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LabelTexts",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "UploadedBy",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Telephone",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierFiles",
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Dto.SupplierFileDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierBanks",
+        "Type": "System.Collections.Generic.List\u00601[[OnePortal_Api.Dto.SupplierBankWithFilesDto, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "files",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "fileIdsToRemoveJson",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "SaveSupplierWithBankAndFiles",
+    "RelativePath": "api/Supplier/SaveSupplierWithBankAndFiles/{isBank}/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "isBank",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "supplierJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "files",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "fileIdsJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fileIdsToRemoveJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "labelTextsJson",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "GetSupplier",
+    "RelativePath": "api/Supplier/SupplierInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "UpdateSupplier",
+    "RelativePath": "api/Supplier/UpdateSupplier",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "supplierDto",
+        "Type": "OnePortal_Api.Dto.SupplierDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "UpdateSupplierWithFiles",
+    "RelativePath": "api/Supplier/UpdateSupplierWithFiles",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Prefix",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tax_Id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AddressSup",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "District",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Subdistrict",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Province",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PostalCode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tel",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierNum",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SupplierType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Site",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Vat",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PaymentMethod",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Company",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Type",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerAcc",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "OwnerFn",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Mobile",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PostId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "files",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "fileIdsJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fileIdsToRemoveJson",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "labelTextsJson",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.SupplierController",
+    "Method": "GetVatInfo",
+    "RelativePath": "api/Supplier/VatInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[OnePortal_Api.Model.Vat, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.TempNumKeyController",
+    "Method": "GetMaxNum",
+    "RelativePath": "api/TempNumKey/findbyKey/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.TempNumKey",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "AddUser",
+    "RelativePath": "api/User/AddUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "OnePortal_Api.Model.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "DeleteUserById",
+    "RelativePath": "api/User/DeleteBy/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "FindApproversByCompany",
+    "RelativePath": "api/User/findApproversByCompany",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "company",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "findApproversByCompanySupplier",
+    "RelativePath": "api/User/findApproversByCompanySupplier",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "company",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "FindApproversFNByCompany",
+    "RelativePath": "api/User/findApproversFNByCompany",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "company",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "GetRoleById",
+    "RelativePath": "api/User/findby/{Roleid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Roleid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.Role",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "FindUserByUsername",
+    "RelativePath": "api/User/find-user/{username}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "GetAllUserResponsible",
+    "RelativePath": "api/User/GetAllUserResponsible",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "GetUser",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "SearchUsers",
+    "RelativePath": "api/User/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "firstname",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "UpdatePassword",
+    "RelativePath": "api/User/update-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatePasswordDto",
+        "Type": "OnePortal_Api.Dto.UpdatePasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/User/UpdateUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "userDto",
+        "Type": "OnePortal_Api.Dto.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "UpdateUserDelete",
+    "RelativePath": "api/User/UpdateUserDelete",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OnePortal_Api.Model.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.UserController",
+    "Method": "GetUser",
+    "RelativePath": "api/User/UserInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnePortal_Api.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[OnePortal_Api.WeatherForecast, OnePortal-Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

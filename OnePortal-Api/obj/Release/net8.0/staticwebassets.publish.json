@@ -1,0 +1,2288 @@
+{
+  "Version": 1,
+  "Hash": "E6aRIXpTdsbtPsKz3BPoMyawZrXjKs7O4xJIy7LdtlE=",
+  "Source": "OnePortal-Api",
+  "BasePath": "_content/OnePortal-Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnePortal-Api\\wwwroot",
+      "Source": "OnePortal-Api",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\09d1343e-8ac7-460d-9912-6835fbddbaf2_sample_text_full_page.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/09d1343e-8ac7-460d-9912-6835fbddbaf2_sample_text_full_page#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7aaxec71f6",
+      "Integrity": "sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\09d1343e-8ac7-460d-9912-6835fbddbaf2_sample_text_full_page.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\4b68e2a9-1b43-4b21-957e-1a9f5ca91d1a_sample_text_full_page.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/4b68e2a9-1b43-4b21-957e-1a9f5ca91d1a_sample_text_full_page#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7aaxec71f6",
+      "Integrity": "sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4b68e2a9-1b43-4b21-957e-1a9f5ca91d1a_sample_text_full_page.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\626dd2e7-8cb1-4edc-9039-c48300d78621_sample_plain.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/626dd2e7-8cb1-4edc-9039-c48300d78621_sample_plain#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "91z2htyib2",
+      "Integrity": "I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\626dd2e7-8cb1-4edc-9039-c48300d78621_sample_plain.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\73fcbd57-a67f-4afc-a37e-b8515fb5fd87_sample_text_full_page.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/73fcbd57-a67f-4afc-a37e-b8515fb5fd87_sample_text_full_page#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7aaxec71f6",
+      "Integrity": "sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\73fcbd57-a67f-4afc-a37e-b8515fb5fd87_sample_text_full_page.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\87405c0a-6cd9-4a05-86e8-8c0052f9f3cd_sample_plain.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/87405c0a-6cd9-4a05-86e8-8c0052f9f3cd_sample_plain#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "91z2htyib2",
+      "Integrity": "I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\87405c0a-6cd9-4a05-86e8-8c0052f9f3cd_sample_plain.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\f20708d7-a7d8-4a1d-b108-fe95e146b664_sample_plain.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/f20708d7-a7d8-4a1d-b108-fe95e146b664_sample_plain#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "91z2htyib2",
+      "Integrity": "I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f20708d7-a7d8-4a1d-b108-fe95e146b664_sample_plain.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\GCH GROUP\\262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/GCH GROUP/262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "drbw18mmga",
+      "Integrity": "d1ttv3dRpRSeTMqAPTNzuQKnXj4SsX2cLMBsmnpAFso=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\GCH GROUP\\262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\GCH GROUP\\ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/GCH GROUP/ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ntzr2f7jj",
+      "Integrity": "z3OnovUQm6xUbToGhnAzNH3QOW2xtDaycsLIRUHKTPE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\GCH GROUP\\ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\GCH GROUP\\watermarked_262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/GCH GROUP/watermarked_262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vd44e5mnjo",
+      "Integrity": "MxEFvkXzKy4wN5ZfqtMQALUR1MsI1lKd77tZQXor4x4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\GCH GROUP\\watermarked_262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\GCH GROUP\\watermarked_ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/GCH GROUP/watermarked_ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eegn8n4vb7",
+      "Integrity": "xnbfHsx1ActvPfrS12Ggh1cftYczfkQsonCax9bPits=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\GCH GROUP\\watermarked_ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\moderate_large_resume.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/moderate_large_resume#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2g88x9v6wa",
+      "Integrity": "Pi6MjjZjcQr4DaybJqqa/1urXrkWsCjq/jT9tsios9k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\moderate_large_resume.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\sample_plain.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/sample_plain#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ujlzdntiom",
+      "Integrity": "2pAwnSQB7KhyX1phQafSNCovh9VnZuTXMRTVH67E4Pg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\sample_plain.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\sample_text_full_page.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/sample_text_full_page#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9kf60drsad",
+      "Integrity": "SZiy6NK45LVWmkU/QCUt3uhf8A3dxhEcGQBMi5XJ2NM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\sample_text_full_page.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/suppliers/3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nl1r7883xu",
+      "Integrity": "Jfg32edA6Xuccn014NhhQ+JJlFsWb9XPNRByNyMDRHI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\suppliers\\3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\cd7f358f-4908-45ec-b872-43ef705a91ea_หนังสือรับรอง IJ 13 มค 68.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/suppliers/cd7f358f-4908-45ec-b872-43ef705a91ea_หนังสือรับรอง IJ 13 มค 68#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uy57q6uhvr",
+      "Integrity": "CpR/VKSS69feUNN3blWK2hZNVfWUewVSvUN2xFV4lTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\suppliers\\cd7f358f-4908-45ec-b872-43ef705a91ea_หนังสือรับรอง IJ 13 มค 68.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/suppliers/d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lrxsm1y0pt",
+      "Integrity": "8TMgGnQQ0BAgZU/Ylwgt6cA/Y5zmhXJUf7t8tA8R+gU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\suppliers\\d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\watermarked_3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/suppliers/watermarked_3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nbjpcj0n28",
+      "Integrity": "7Vkmqn9/zd6tqdDALcKje27HFFs649YBLUxLZu7+4iM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\suppliers\\watermarked_3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\watermarked_aa02672e-4190-4774-9a0e-94633265ad50_หนังสือรับรอง IJ 13 มค 68.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/suppliers/watermarked_aa02672e-4190-4774-9a0e-94633265ad50_หนังสือรับรอง IJ 13 มค 68#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "82i41hfb2z",
+      "Integrity": "cGk+6Y6kvjALvNFF+9XiuUeZ5SnSF80qHCOlUGwgVbM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\suppliers\\watermarked_aa02672e-4190-4774-9a0e-94633265ad50_หนังสือรับรอง IJ 13 มค 68.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\watermarked_d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/suppliers/watermarked_d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5a95nlvlk4",
+      "Integrity": "PdkSTMjmTcl9rX59B+k07C2zQ42EQ4xBnbjQy1vgL2I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\suppliers\\watermarked_d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\uploads\\d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/uploads/d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "drbw18mmga",
+      "Integrity": "d1ttv3dRpRSeTMqAPTNzuQKnXj4SsX2cLMBsmnpAFso=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\uploads\\d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\uploads\\watermarked_d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/uploads/watermarked_d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2spxa13xng",
+      "Integrity": "wl7dRCh2DxkEtV7+UBqWhLD20ir6m0YYwyV4yCA/6XI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\uploads\\watermarked_d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.pdf"
+    },
+    {
+      "Identity": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\very_large_sample_resume.pdf",
+      "SourceId": "OnePortal-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\",
+      "BasePath": "_content/OnePortal-Api",
+      "RelativePath": "uploads/very_large_sample_resume#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h6956mawiw",
+      "Integrity": "uTtYLFQbMYwupX+nyS9hR5N9f81dheICAzAfwFaUTYo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\very_large_sample_resume.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/09d1343e-8ac7-460d-9912-6835fbddbaf2_sample_text_full_page.7aaxec71f6.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\09d1343e-8ac7-460d-9912-6835fbddbaf2_sample_text_full_page.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7aaxec71f6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/09d1343e-8ac7-460d-9912-6835fbddbaf2_sample_text_full_page.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/09d1343e-8ac7-460d-9912-6835fbddbaf2_sample_text_full_page.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\09d1343e-8ac7-460d-9912-6835fbddbaf2_sample_text_full_page.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4b68e2a9-1b43-4b21-957e-1a9f5ca91d1a_sample_text_full_page.7aaxec71f6.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\4b68e2a9-1b43-4b21-957e-1a9f5ca91d1a_sample_text_full_page.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7aaxec71f6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4b68e2a9-1b43-4b21-957e-1a9f5ca91d1a_sample_text_full_page.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4b68e2a9-1b43-4b21-957e-1a9f5ca91d1a_sample_text_full_page.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\4b68e2a9-1b43-4b21-957e-1a9f5ca91d1a_sample_text_full_page.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/626dd2e7-8cb1-4edc-9039-c48300d78621_sample_plain.91z2htyib2.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\626dd2e7-8cb1-4edc-9039-c48300d78621_sample_plain.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "91z2htyib2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/626dd2e7-8cb1-4edc-9039-c48300d78621_sample_plain.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/626dd2e7-8cb1-4edc-9039-c48300d78621_sample_plain.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\626dd2e7-8cb1-4edc-9039-c48300d78621_sample_plain.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/73fcbd57-a67f-4afc-a37e-b8515fb5fd87_sample_text_full_page.7aaxec71f6.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\73fcbd57-a67f-4afc-a37e-b8515fb5fd87_sample_text_full_page.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7aaxec71f6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/73fcbd57-a67f-4afc-a37e-b8515fb5fd87_sample_text_full_page.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/73fcbd57-a67f-4afc-a37e-b8515fb5fd87_sample_text_full_page.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\73fcbd57-a67f-4afc-a37e-b8515fb5fd87_sample_text_full_page.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sR/jbOISrjfBdHOTkroDz9vVdIYW2m2APDy6rGTwpk4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/87405c0a-6cd9-4a05-86e8-8c0052f9f3cd_sample_plain.91z2htyib2.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\87405c0a-6cd9-4a05-86e8-8c0052f9f3cd_sample_plain.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "91z2htyib2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/87405c0a-6cd9-4a05-86e8-8c0052f9f3cd_sample_plain.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/87405c0a-6cd9-4a05-86e8-8c0052f9f3cd_sample_plain.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\87405c0a-6cd9-4a05-86e8-8c0052f9f3cd_sample_plain.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f20708d7-a7d8-4a1d-b108-fe95e146b664_sample_plain.91z2htyib2.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\f20708d7-a7d8-4a1d-b108-fe95e146b664_sample_plain.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "91z2htyib2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f20708d7-a7d8-4a1d-b108-fe95e146b664_sample_plain.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f20708d7-a7d8-4a1d-b108-fe95e146b664_sample_plain.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\f20708d7-a7d8-4a1d-b108-fe95e146b664_sample_plain.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I/3hFD5fiY6RiXDfH3cnwEKkyuSrJ7AZQEuD+rcrnXo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/GCH GROUP/262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.drbw18mmga.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\GCH GROUP\\262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d1ttv3dRpRSeTMqAPTNzuQKnXj4SsX2cLMBsmnpAFso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "drbw18mmga"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/GCH GROUP/262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d1ttv3dRpRSeTMqAPTNzuQKnXj4SsX2cLMBsmnpAFso="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/GCH GROUP/262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\GCH GROUP\\262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d1ttv3dRpRSeTMqAPTNzuQKnXj4SsX2cLMBsmnpAFso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d1ttv3dRpRSeTMqAPTNzuQKnXj4SsX2cLMBsmnpAFso="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/GCH GROUP/ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.3ntzr2f7jj.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\GCH GROUP\\ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z3OnovUQm6xUbToGhnAzNH3QOW2xtDaycsLIRUHKTPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ntzr2f7jj"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/GCH GROUP/ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3OnovUQm6xUbToGhnAzNH3QOW2xtDaycsLIRUHKTPE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/GCH GROUP/ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\GCH GROUP\\ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163140"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z3OnovUQm6xUbToGhnAzNH3QOW2xtDaycsLIRUHKTPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z3OnovUQm6xUbToGhnAzNH3QOW2xtDaycsLIRUHKTPE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/GCH GROUP/watermarked_262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\GCH GROUP\\watermarked_262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "256006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MxEFvkXzKy4wN5ZfqtMQALUR1MsI1lKd77tZQXor4x4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MxEFvkXzKy4wN5ZfqtMQALUR1MsI1lKd77tZQXor4x4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/GCH GROUP/watermarked_262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.vd44e5mnjo.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\GCH GROUP\\watermarked_262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "256006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MxEFvkXzKy4wN5ZfqtMQALUR1MsI1lKd77tZQXor4x4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vd44e5mnjo"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/GCH GROUP/watermarked_262d2698-3c78-41d6-a60f-8a79e984ac5a_26022025122847-0001.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MxEFvkXzKy4wN5ZfqtMQALUR1MsI1lKd77tZQXor4x4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/GCH GROUP/watermarked_ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.eegn8n4vb7.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\GCH GROUP\\watermarked_ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xnbfHsx1ActvPfrS12Ggh1cftYczfkQsonCax9bPits=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eegn8n4vb7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/GCH GROUP/watermarked_ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xnbfHsx1ActvPfrS12Ggh1cftYczfkQsonCax9bPits="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/GCH GROUP/watermarked_ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\GCH GROUP\\watermarked_ea2bec88-e550-4f08-946b-e02fec21960c_26022025122922-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "268399"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xnbfHsx1ActvPfrS12Ggh1cftYczfkQsonCax9bPits=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xnbfHsx1ActvPfrS12Ggh1cftYczfkQsonCax9bPits="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/moderate_large_resume.2g88x9v6wa.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\moderate_large_resume.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4908825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pi6MjjZjcQr4DaybJqqa/1urXrkWsCjq/jT9tsios9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Oct 2024 11:03:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2g88x9v6wa"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/moderate_large_resume.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pi6MjjZjcQr4DaybJqqa/1urXrkWsCjq/jT9tsios9k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/moderate_large_resume.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\moderate_large_resume.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4908825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pi6MjjZjcQr4DaybJqqa/1urXrkWsCjq/jT9tsios9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Oct 2024 11:03:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pi6MjjZjcQr4DaybJqqa/1urXrkWsCjq/jT9tsios9k="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/sample_plain.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\sample_plain.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2pAwnSQB7KhyX1phQafSNCovh9VnZuTXMRTVH67E4Pg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2pAwnSQB7KhyX1phQafSNCovh9VnZuTXMRTVH67E4Pg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/sample_plain.ujlzdntiom.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\sample_plain.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26571"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2pAwnSQB7KhyX1phQafSNCovh9VnZuTXMRTVH67E4Pg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ujlzdntiom"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/sample_plain.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2pAwnSQB7KhyX1phQafSNCovh9VnZuTXMRTVH67E4Pg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/sample_text_full_page.9kf60drsad.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\sample_text_full_page.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZiy6NK45LVWmkU/QCUt3uhf8A3dxhEcGQBMi5XJ2NM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9kf60drsad"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/sample_text_full_page.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZiy6NK45LVWmkU/QCUt3uhf8A3dxhEcGQBMi5XJ2NM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/sample_text_full_page.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\sample_text_full_page.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZiy6NK45LVWmkU/QCUt3uhf8A3dxhEcGQBMi5XJ2NM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 08:40:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZiy6NK45LVWmkU/QCUt3uhf8A3dxhEcGQBMi5XJ2NM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/suppliers/3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.nl1r7883xu.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "463442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jfg32edA6Xuccn014NhhQ+JJlFsWb9XPNRByNyMDRHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nl1r7883xu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/suppliers/3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jfg32edA6Xuccn014NhhQ+JJlFsWb9XPNRByNyMDRHI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/suppliers/3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "463442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jfg32edA6Xuccn014NhhQ+JJlFsWb9XPNRByNyMDRHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jfg32edA6Xuccn014NhhQ+JJlFsWb9XPNRByNyMDRHI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/suppliers/cd7f358f-4908-45ec-b872-43ef705a91ea_หนังสือรับรอง IJ 13 มค 68.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\cd7f358f-4908-45ec-b872-43ef705a91ea_หนังสือรับรอง IJ 13 มค 68.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "650829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CpR/VKSS69feUNN3blWK2hZNVfWUewVSvUN2xFV4lTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 06:58:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CpR/VKSS69feUNN3blWK2hZNVfWUewVSvUN2xFV4lTA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/suppliers/cd7f358f-4908-45ec-b872-43ef705a91ea_หนังสือรับรอง IJ 13 มค 68.uy57q6uhvr.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\cd7f358f-4908-45ec-b872-43ef705a91ea_หนังสือรับรอง IJ 13 มค 68.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "650829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CpR/VKSS69feUNN3blWK2hZNVfWUewVSvUN2xFV4lTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 06:58:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uy57q6uhvr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/suppliers/cd7f358f-4908-45ec-b872-43ef705a91ea_หนังสือรับรอง IJ 13 มค 68.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CpR/VKSS69feUNN3blWK2hZNVfWUewVSvUN2xFV4lTA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/suppliers/d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.lrxsm1y0pt.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8TMgGnQQ0BAgZU/Ylwgt6cA/Y5zmhXJUf7t8tA8R+gU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lrxsm1y0pt"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/suppliers/d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8TMgGnQQ0BAgZU/Ylwgt6cA/Y5zmhXJUf7t8tA8R+gU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/suppliers/d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8TMgGnQQ0BAgZU/Ylwgt6cA/Y5zmhXJUf7t8tA8R+gU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8TMgGnQQ0BAgZU/Ylwgt6cA/Y5zmhXJUf7t8tA8R+gU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/suppliers/watermarked_3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.nbjpcj0n28.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\watermarked_3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "568701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Vkmqn9/zd6tqdDALcKje27HFFs649YBLUxLZu7+4iM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nbjpcj0n28"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/suppliers/watermarked_3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Vkmqn9/zd6tqdDALcKje27HFFs649YBLUxLZu7+4iM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/suppliers/watermarked_3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\watermarked_3ae463be-8dee-4b4d-a4b2-fd37201f075f_26022025122903-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "568701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Vkmqn9/zd6tqdDALcKje27HFFs649YBLUxLZu7+4iM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Vkmqn9/zd6tqdDALcKje27HFFs649YBLUxLZu7+4iM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/suppliers/watermarked_aa02672e-4190-4774-9a0e-94633265ad50_หนังสือรับรอง IJ 13 มค 68.82i41hfb2z.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\watermarked_aa02672e-4190-4774-9a0e-94633265ad50_หนังสือรับรอง IJ 13 มค 68.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "761015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cGk+6Y6kvjALvNFF+9XiuUeZ5SnSF80qHCOlUGwgVbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 06:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "82i41hfb2z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/suppliers/watermarked_aa02672e-4190-4774-9a0e-94633265ad50_หนังสือรับรอง IJ 13 มค 68.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cGk+6Y6kvjALvNFF+9XiuUeZ5SnSF80qHCOlUGwgVbM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/suppliers/watermarked_aa02672e-4190-4774-9a0e-94633265ad50_หนังสือรับรอง IJ 13 มค 68.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\watermarked_aa02672e-4190-4774-9a0e-94633265ad50_หนังสือรับรอง IJ 13 มค 68.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "761015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cGk+6Y6kvjALvNFF+9XiuUeZ5SnSF80qHCOlUGwgVbM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 06:58:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cGk+6Y6kvjALvNFF+9XiuUeZ5SnSF80qHCOlUGwgVbM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/suppliers/watermarked_d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.5a95nlvlk4.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\watermarked_d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "339838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PdkSTMjmTcl9rX59B+k07C2zQ42EQ4xBnbjQy1vgL2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5a95nlvlk4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/suppliers/watermarked_d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PdkSTMjmTcl9rX59B+k07C2zQ42EQ4xBnbjQy1vgL2I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/suppliers/watermarked_d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\suppliers\\watermarked_d02b22ae-07f8-4871-92d5-a3ea7016cb27_26022025122828-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "339838"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PdkSTMjmTcl9rX59B+k07C2zQ42EQ4xBnbjQy1vgL2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 07:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PdkSTMjmTcl9rX59B+k07C2zQ42EQ4xBnbjQy1vgL2I="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/uploads/d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.drbw18mmga.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\uploads\\d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d1ttv3dRpRSeTMqAPTNzuQKnXj4SsX2cLMBsmnpAFso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 03:28:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "drbw18mmga"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/uploads/d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d1ttv3dRpRSeTMqAPTNzuQKnXj4SsX2cLMBsmnpAFso="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/uploads/d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\uploads\\d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d1ttv3dRpRSeTMqAPTNzuQKnXj4SsX2cLMBsmnpAFso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 03:28:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d1ttv3dRpRSeTMqAPTNzuQKnXj4SsX2cLMBsmnpAFso="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/uploads/watermarked_d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.2spxa13xng.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\uploads\\watermarked_d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255995"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wl7dRCh2DxkEtV7+UBqWhLD20ir6m0YYwyV4yCA/6XI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 03:28:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2spxa13xng"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/uploads/watermarked_d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wl7dRCh2DxkEtV7+UBqWhLD20ir6m0YYwyV4yCA/6XI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/uploads/watermarked_d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\uploads\\watermarked_d7d39358-0ca1-4220-a18b-c81a9aeddc09_26022025122847-0001.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255995"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wl7dRCh2DxkEtV7+UBqWhLD20ir6m0YYwyV4yCA/6XI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 03:28:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wl7dRCh2DxkEtV7+UBqWhLD20ir6m0YYwyV4yCA/6XI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/very_large_sample_resume.h6956mawiw.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\very_large_sample_resume.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3929111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uTtYLFQbMYwupX+nyS9hR5N9f81dheICAzAfwFaUTYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Oct 2024 11:03:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h6956mawiw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/very_large_sample_resume.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uTtYLFQbMYwupX+nyS9hR5N9f81dheICAzAfwFaUTYo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/very_large_sample_resume.pdf",
+      "AssetFile": "C:\\BackUp Drive D\\Fluke\\OneProject\\one-portal\\OnePortal-Api\\OnePortal-Api\\wwwroot\\uploads\\very_large_sample_resume.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3929111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uTtYLFQbMYwupX+nyS9hR5N9f81dheICAzAfwFaUTYo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Oct 2024 11:03:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uTtYLFQbMYwupX+nyS9hR5N9f81dheICAzAfwFaUTYo="
+        }
+      ]
+    }
+  ]
+}
