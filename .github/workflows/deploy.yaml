@@ -21,6 +21,11 @@ jobs:
           iisreset /stop
         shell: cmd
 
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '7.0.x
+
       - name: Restore dependencies
         run: dotnet restore OnePortal-Api/OnePortal-Api.sln
 
