@@ -19,11 +19,6 @@ jobs:
         run: iisreset /stop
         shell: cmd
 
-      - name: Setup .NET SDK
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: '8.0.x'
-
       - name: Clear NuGet Cache
         run: dotnet nuget locals all --clear
 
