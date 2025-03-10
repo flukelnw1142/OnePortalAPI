@@ -31,10 +31,15 @@ jobs:
         run: echo "NUGET_PACKAGES=C:\nuget-packages" >> $GITHUB_ENV
 
       - name: Restore dependencies
-        run: dotnet restore OnePortal-Api/OnePortal-Api.sln --packages C:\nuget-packages
+        run: dotnet restore OnePortal-Api/OnePortal-Api.sln --force --packages C:\nuget-packages
 
       - name: Remove old build files
-        run: rm -r -fo OnePortal-Api/bin, OnePortal-Api/obj
+        run: |
+          rm -r -fo OnePortal-Api/bin, OnePortal-Api/obj
+        shell: powershell
+
+      - name: Check for duplicate files
+        run: Get-ChildItem -Path OnePortal-Api/Services, OnePortal-Api/Controllers -Filter *.cs -Recurse | Group-Object Name | Where-Object {$_.Count -gt 1} | Format-Table Count, Name
         shell: powershell
 
       - name: Build
@@ -46,4 +51,3 @@ jobs:
       - name: Restart IIS (Production)
         run: iisreset /restart
         shell: cmd
-
