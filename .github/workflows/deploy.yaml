@@ -5,7 +5,6 @@ on:
   push:
     branches: 
       - "main"     # ✅ Production
-      - "release"  # ✅ Test Site
 
 jobs:
   deploy-production:
@@ -21,8 +20,8 @@ jobs:
           iisreset /stop
         shell: cmd
 
-      - name: Restore dependencies (Force)
-        run: dotnet restore OnePortal-Api/OnePortal-Api.sln --force --packages C:\nuget-packages
+      - name: Restore dependencies
+        run: dotnet restore OnePortal-Api/OnePortal-Api.sln
 
       - name: Build
         run: dotnet build OnePortal-Api/OnePortal-Api.sln --configuration Release --no-restore
@@ -35,29 +34,3 @@ jobs:
           iisreset /restart
         shell: cmd
 
-  deploy-test:
-    if: github.ref == 'refs/heads/release'
-    runs-on: self-hosted
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Stop IIS (Test Site)
-        run: |
-          iisreset /stop
-        shell: cmd
-
-      - name: Restore dependencies
-        run: dotnet restore OnePortal-Api/OnePortal-Api.sln
-
-      - name: Build
-        run: dotnet build OnePortal-Api/OnePortal-Api.sln --configuration Release --no-restore
-
-      - name: Publish to Test Site
-        run: dotnet publish OnePortal-Api/OnePortal-Api.csproj --configuration Release --output C:\Project\FN_Portal\Protal-API_Test\ --no-build
-
-      - name: Restart IIS (Test Site)
-        run: |
-          iisreset /restart
-        shell: cmd
