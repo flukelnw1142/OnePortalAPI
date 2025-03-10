@@ -19,6 +19,11 @@ jobs:
         run: iisreset /stop
         shell: cmd
 
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'
+
       - name: Clear NuGet Cache
         run: dotnet nuget locals all --clear
 
@@ -28,14 +33,15 @@ jobs:
       - name: Restore dependencies
         run: dotnet restore OnePortal-Api/OnePortal-Api.sln --packages C:\nuget-packages
 
-      - name: Clean Build Artifacts
-        run: dotnet clean OnePortal-Api/OnePortal-Api.sln --configuration Release
+      - name: Remove old build files
+        run: rm -r -fo OnePortal-Api/bin, OnePortal-Api/obj
+        shell: powershell
 
       - name: Build
         run: dotnet build OnePortal-Api/OnePortal-Api.sln --configuration Release --no-restore
 
       - name: Publish to Production
-        run: dotnet publish OnePortal-Api/OnePortal-Api.csproj --configuration Release --output C:\Project\FN_Portal\Protal-API_Test\ --no-build
+        run: dotnet publish OnePortal-Api/OnePortal-Api.csproj --configuration Release --output C:\Project\FN_Portal\Protal-API_Test\
 
       - name: Restart IIS (Production)
         run: iisreset /restart
