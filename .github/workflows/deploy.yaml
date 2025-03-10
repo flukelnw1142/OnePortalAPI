@@ -20,7 +20,7 @@ jobs:
         shell: cmd
 
       - name: Clear NuGet Cache
-        run: nuget locals all --clear
+        run: dotnet nuget locals all --clear
 
       - name: Set NuGet Package Environment Variable
         run: echo "NUGET_PACKAGES=C:\nuget-packages" >> $GITHUB_ENV
@@ -40,3 +40,4 @@ jobs:
       - name: Restart IIS (Production)
         run: iisreset /restart
         shell: cmd
+
